@@ -1,0 +1,23 @@
+.elementor-fbci-widget-staff {
+	border-bottom: 1px solid #B2CAB5;
+	padding: 0 0 1em 0;
+	margin: 0 0 2em 0;
+}
+
+.elementor-fbci-widget-staff > div {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.elementor-fbci-widget-staff .staff-photo {
+	width: 32.5%;
+	padding: 0 2.5% 0 0;
+}
+
+.elementor-fbci-widget-staff .staff-photo img {
+	width: 100%;
+}
+
+.elementor-fbci-widget-staff .staff-content {
+	width: 65%;
+}
